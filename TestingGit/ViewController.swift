@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     // Olzhas
     //Aida did smth
     // SAdsad
-    // Conflict
+    // Conflictllllll
     //l
     //fbssb;sm;b
 }
