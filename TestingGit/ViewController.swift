@@ -14,15 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    // Olzhas
-    //Aida did smth
-    // SAdsad
-    // Conflictllllll
-    //l
-    //fbssb;sm;b
-    //asdasdasd
-    //
-    //
     //
 }
 
